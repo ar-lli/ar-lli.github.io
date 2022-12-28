@@ -1,0 +1,74 @@
+///
+// Skin: Default
+// Author: Tian Qi
+// Email: kitian616@outlook.com
+///
+
+// main colors
+$main-color-1:     #81a1c1;
+$text-color-1:     #e5e9f0;
+
+$main-color-2:     #ebcb8b;
+$text-color-2:     #e5e9f0;
+
+$main-color-3:     #d8dee9;
+$text-color-3:     #2e3440;
+
+$main-color-theme-light: rgba(#2e3440, .9);
+$main-color-theme-dark:  rgba(#e5e9f0, .9);
+
+// page background
+$background-color: #e5e9f0;
+
+// text colors
+$text-color-theme-light-d: #2e3440;
+$text-color-theme-light:   #434c5e;
+$text-color-theme-light-l: #4c566a;
+
+$text-color-theme-dark-d:  #e5e9f0;
+$text-color-theme-dark:    rgba(#e5e9f0, .95);
+$text-color-theme-dark-l:  rgba(#e5e9f0, .85);
+
+$text-color-d:     $text-color-theme-light-d;
+$text-color:       $text-color-theme-light;
+$text-color-l:     $text-color-theme-light-l;
+
+$text-background-color: rgba(#2e3440, .05);
+
+// header and footer colors
+$header-text-color: $text-color-3;
+$header-background: $main-color-3;
+
+$footer-text-color: $text-color-3;
+$footer-background: $main-color-3;
+
+// border and shadow colors
+$border-color:     mix(#2e3440, $background-color, 20%);
+$border-color-l:   mix(#2e3440, $background-color, 10%);
+$decorate-color:   rgba(#2e3440, .1);
+$mask-color:       rgba(#2e3440, .9);
+$select-color:     rgba($main-color-1, .5);
+
+// function colors
+$green:           #a3be8c;
+$blue:            #5e81ac;
+$yellow:          #ebcb8b;
+$red:             #bf616a;
+$text-color-function: #e5e9f0;
+
+// logo colors
+$mail-color:       #a3be8c;
+$facebook-color:   #4267b2;
+$twitter-color:    #1da1f2;
+$weibo-color:      #e6162d;
+$google-plus-color:#ea4335;
+$telegram-color:   #81a1c1;
+$medium-color:     #000;
+$zhihu-color:      #0084ff;
+$douban-color:     #42bd56;
+$linkedin-color:   #1074af;
+$github-color:     #2e3440;
+$npm-color:        #e5e9f0;
+
+// highlight colors
+@import "skins/highlight/tomorrow";
