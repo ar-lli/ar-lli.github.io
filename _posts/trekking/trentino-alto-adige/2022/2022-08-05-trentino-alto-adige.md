@@ -1,7 +1,7 @@
 ---
 title: "Lago dei Caprioli, Val di Sole"
 date: 2022-08-05
-draft: false
+cover: "/assets/trekking/trentino-alto-adige/2022/0805/cover.jpg"
 categories:
  - trekking
 tags:

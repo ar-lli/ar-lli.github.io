@@ -1,6 +1,7 @@
 ---
 title: "Daolasa: Giro dei Tre Laghi"
 date: 2022-07-31
+cover: "/assets/trekking/trentino-alto-adige/2022/0731/cover.jpg"
 header:
   theme: dark
   background: "#474848"

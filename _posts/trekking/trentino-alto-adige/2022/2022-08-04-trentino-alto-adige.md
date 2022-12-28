@@ -1,6 +1,7 @@
 ---
 title: "Lago Corvo, Val di Rabbi"
 date: 2022-08-04
+cover: "/assets/trekking/trentino-alto-adige/2022/0804/cover.jpg"
 header:
   theme: dark
   background: "#474848"
