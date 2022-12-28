@@ -1,7 +1,13 @@
 ---
 title: "Pejo3000 - Rifugio Doss dei Gembri"
 date: 2022-08-01
-draft: false
+header:
+  theme: dark
+  background: "#474848"
+article_header:
+  type: cover
+  image:
+    src: "/assets/trekking/trentino-alto-adige/2022/0801/01-background.jpg"
 categories:
  - trekking
 tags:

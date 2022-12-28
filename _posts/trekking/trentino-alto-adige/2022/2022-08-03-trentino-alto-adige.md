@@ -1,7 +1,13 @@
 ---
 title: "Passo del Tonale: ai Laghetti di Strino passando per il Monte Tonale Orientale"
 date: 2022-08-03
-draft: false
+header:
+  theme: dark
+  background: "#474848"
+article_header:
+  type: cover
+  image:
+    src: "/assets/trekking/trentino-alto-adige/2022/0803/01-background.jpg"
 categories:
  - trekking
 tags:
