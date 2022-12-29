@@ -4,7 +4,7 @@ date: 2022-08-01
 cover: "/assets/trekking/trentino-alto-adige/2022/0801/cover.jpg"
 header:
   theme: dark
-  background: "#474848"
+  background: "#9d9391"
 article_header:
   type: cover
   image:
