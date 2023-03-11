@@ -18,9 +18,9 @@
 ##############################
 text_skin: nord # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: tomorrow-night # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : https://ar-lli.github.io
-baseurl :
-title   : Un blog per caso
+# url     : https://ar-lli.github.io
+# baseurl :
+title   : Io
 description: > # this means to ignore newlines until "Language & timezone"
   Trekking e ricette (e forse anche altro)
 
